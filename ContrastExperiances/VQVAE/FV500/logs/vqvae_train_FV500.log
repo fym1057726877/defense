@@ -1,0 +1,14 @@
+{'epoch': 1, 'loss': '1.45040369', 'attacktype': 'FGSM', 'eps': 0.03, 'NorAcc': 0.982, 'RecAcc': 0.968, 'AdvAcc': 0.922, 'RAvAcc': 0.965, 'classifier': 'ModelB_FV500', 'best_acc': 0.965}
+{'epoch': 2, 'loss': '0.14259000', 'attacktype': 'FGSM', 'eps': 0.03, 'NorAcc': 0.982, 'RecAcc': 0.972, 'AdvAcc': 0.925, 'RAvAcc': 0.966, 'classifier': 'ModelB_FV500', 'best_acc': 0.966}
+{'epoch': 3, 'loss': '0.10932311', 'attacktype': 'FGSM', 'eps': 0.03, 'NorAcc': 0.981, 'RecAcc': 0.971, 'AdvAcc': 0.922, 'RAvAcc': 0.972, 'classifier': 'ModelB_FV500', 'best_acc': 0.972}
+{'epoch': 4, 'loss': '0.09820820', 'attacktype': 'FGSM', 'eps': 0.03, 'NorAcc': 0.981, 'RecAcc': 0.974, 'AdvAcc': 0.919, 'RAvAcc': 0.971, 'classifier': 'ModelB_FV500', 'best_acc': 0.972}
+{'epoch': 5, 'loss': '0.08624130', 'attacktype': 'FGSM', 'eps': 0.03, 'NorAcc': 0.983, 'RecAcc': 0.975, 'AdvAcc': 0.923, 'RAvAcc': 0.971, 'classifier': 'ModelB_FV500', 'best_acc': 0.972}
+{'epoch': 6, 'loss': '0.07907846', 'attacktype': 'FGSM', 'eps': 0.03, 'NorAcc': 0.983, 'RecAcc': 0.973, 'AdvAcc': 0.923, 'RAvAcc': 0.972, 'classifier': 'ModelB_FV500', 'best_acc': 0.972}
+{'epoch': 7, 'loss': '0.09148991', 'attacktype': 'FGSM', 'eps': 0.03, 'NorAcc': 0.983, 'RecAcc': 0.974, 'AdvAcc': 0.924, 'RAvAcc': 0.973, 'classifier': 'ModelB_FV500', 'best_acc': 0.973}
+{'epoch': 8, 'loss': '0.08323818', 'attacktype': 'FGSM', 'eps': 0.03, 'NorAcc': 0.984, 'RecAcc': 0.976, 'AdvAcc': 0.925, 'RAvAcc': 0.974, 'classifier': 'ModelB_FV500', 'best_acc': 0.974}
+{'epoch': 9, 'loss': '0.09391626', 'attacktype': 'FGSM', 'eps': 0.03, 'NorAcc': 0.983, 'RecAcc': 0.975, 'AdvAcc': 0.921, 'RAvAcc': 0.971, 'classifier': 'ModelB_FV500', 'best_acc': 0.974}
+{'epoch': 10, 'loss': '0.08212322', 'attacktype': 'FGSM', 'eps': 0.03, 'NorAcc': 0.982, 'RecAcc': 0.977, 'AdvAcc': 0.925, 'RAvAcc': 0.973, 'classifier': 'ModelB_FV500', 'best_acc': 0.974}
+{'epoch': 11, 'loss': '0.06742959', 'attacktype': 'FGSM', 'eps': 0.03, 'NorAcc': 0.982, 'RecAcc': 0.976, 'AdvAcc': 0.919, 'RAvAcc': 0.976, 'classifier': 'ModelB_FV500', 'best_acc': 0.976}
+{'epoch': 12, 'loss': '0.07020013', 'attacktype': 'FGSM', 'eps': 0.03, 'NorAcc': 0.982, 'RecAcc': 0.977, 'AdvAcc': 0.922, 'RAvAcc': 0.974, 'classifier': 'ModelB_FV500', 'best_acc': 0.976}
+{'epoch': 13, 'loss': '0.06673678', 'attacktype': 'FGSM', 'eps': 0.03, 'NorAcc': 0.981, 'RecAcc': 0.976, 'AdvAcc': 0.922, 'RAvAcc': 0.975, 'classifier': 'ModelB_FV500', 'best_acc': 0.976}
+{'epoch': 14, 'loss': '0.06317147', 'attacktype': 'FGSM', 'eps': 0.03, 'NorAcc': 0.984, 'RecAcc': 0.976, 'AdvAcc': 0.924, 'RAvAcc': 0.976, 'classifier': 'ModelB_FV500', 'best_acc': 0.976}

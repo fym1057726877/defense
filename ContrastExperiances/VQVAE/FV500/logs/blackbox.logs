@@ -1,0 +1,3 @@
+{'attacktype': 'Pixle', 'eps': 3, 'NorAcc': 0.971, 'RecAcc': 0.944, 'AdvAcc': 0.972, 'RAvAcc': 0.939, 'classifier': 'PV_CNN_FV500'}
+{'attacktype': 'Pixle', 'eps': 3, 'NorAcc': 0.983, 'RecAcc': 0.967, 'AdvAcc': 0.979, 'RAvAcc': 0.962, 'classifier': 'FVRAS_Net_FV500'}
+{'attacktype': 'Pixle', 'eps': 3, 'NorAcc': 0.981, 'RecAcc': 0.974, 'AdvAcc': 0.989, 'RAvAcc': 0.978, 'classifier': 'ModelB_FV500'}

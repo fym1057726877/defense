@@ -1,0 +1,2 @@
+{'attacktype': 'SPSA', 'eps': 0.2, 'NorAcc': 0.979, 'RecAcc': 0.977, 'AdvAcc': 0.786, 'RAvAcc': 0.811, 'classifier': 'PV_CNN_PV600'}
+{'attacktype': 'SPSA', 'eps': 0.2, 'NorAcc': 0.995, 'RecAcc': 0.991, 'AdvAcc': 0.601, 'RAvAcc': 0.77, 'classifier': 'FVRAS_Net_PV600'}

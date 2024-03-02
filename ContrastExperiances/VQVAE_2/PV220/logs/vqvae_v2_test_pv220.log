@@ -1,0 +1,12 @@
+{'attacktype': 'FGSM', 'eps': 0.01, 'NorAcc': 0.984, 'RecAcc': 0.955, 'AdvAcc': 0.893, 'RAvAcc': 0.945, 'classifier': 'Res2Net_PV220'}
+{'attacktype': 'FGSM', 'eps': 0.015, 'NorAcc': 0.982, 'RecAcc': 0.957, 'AdvAcc': 0.789, 'RAvAcc': 0.943, 'classifier': 'Res2Net_PV220'}
+{'attacktype': 'PGD', 'eps': 0.01, 'NorAcc': 0.982, 'RecAcc': 0.948, 'AdvAcc': 0.827, 'RAvAcc': 0.936, 'classifier': 'Res2Net_PV220'}
+{'attacktype': 'PGD', 'eps': 0.015, 'NorAcc': 0.98, 'RecAcc': 0.95, 'AdvAcc': 0.659, 'RAvAcc': 0.939, 'classifier': 'Res2Net_PV220'}
+{'attacktype': 'FGSM', 'eps': 0.01, 'NorAcc': 0.939, 'RecAcc': 0.809, 'AdvAcc': 0.348, 'RAvAcc': 0.698, 'classifier': 'Vit_PV220'}
+{'attacktype': 'FGSM', 'eps': 0.015, 'NorAcc': 0.939, 'RecAcc': 0.809, 'AdvAcc': 0.205, 'RAvAcc': 0.623, 'classifier': 'Vit_PV220'}
+{'attacktype': 'PGD', 'eps': 0.01, 'NorAcc': 0.939, 'RecAcc': 0.809, 'AdvAcc': 0.177, 'RAvAcc': 0.702, 'classifier': 'Vit_PV220'}
+{'attacktype': 'PGD', 'eps': 0.015, 'NorAcc': 0.939, 'RecAcc': 0.809, 'AdvAcc': 0.066, 'RAvAcc': 0.652, 'classifier': 'Vit_PV220'}
+{'attacktype': 'FGSM', 'eps': 0.01, 'NorAcc': 0.984, 'RecAcc': 0.977, 'AdvAcc': 0.525, 'RAvAcc': 0.93, 'classifier': 'SwinTransformer_PV220'}
+{'attacktype': 'FGSM', 'eps': 0.015, 'NorAcc': 0.982, 'RecAcc': 0.975, 'AdvAcc': 0.282, 'RAvAcc': 0.884, 'classifier': 'SwinTransformer_PV220'}
+{'attacktype': 'PGD', 'eps': 0.01, 'NorAcc': 0.984, 'RecAcc': 0.973, 'AdvAcc': 0.475, 'RAvAcc': 0.923, 'classifier': 'SwinTransformer_PV220'}
+{'attacktype': 'PGD', 'eps': 0.015, 'NorAcc': 0.984, 'RecAcc': 0.973, 'AdvAcc': 0.27, 'RAvAcc': 0.882, 'classifier': 'SwinTransformer_PV220'}

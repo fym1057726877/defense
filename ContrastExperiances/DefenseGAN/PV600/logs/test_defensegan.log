@@ -1,0 +1,8 @@
+{'attacktype': 'FGSM', 'eps': 0.01, 'NorAcc': 0.986, 'RecAcc': 0.598, 'AdvAcc': 0.349, 'RAvAcc': 0.522}
+{'attacktype': 'FGSM', 'eps': 0.03, 'NorAcc': 0.986, 'RecAcc': 0.596, 'AdvAcc': 0.006, 'RAvAcc': 0.351}
+{'attacktype': 'PGD', 'eps': 0.01, 'NorAcc': 0.986, 'RecAcc': 0.596, 'AdvAcc': 0.19, 'RAvAcc': 0.52}
+{'attacktype': 'PGD', 'eps': 0.015, 'NorAcc': 0.986, 'RecAcc': 0.598, 'AdvAcc': 0.039, 'RAvAcc': 0.483}
+{'attacktype': 'FGSM', 'eps': 0.01, 'NorAcc': 0.994, 'RecAcc': 0.81, 'AdvAcc': 0.832, 'RAvAcc': 0.765}
+{'attacktype': 'FGSM', 'eps': 0.03, 'NorAcc': 0.994, 'RecAcc': 0.811, 'AdvAcc': 0.262, 'RAvAcc': 0.618}
+{'attacktype': 'PGD', 'eps': 0.01, 'NorAcc': 0.994, 'RecAcc': 0.809, 'AdvAcc': 0.819, 'RAvAcc': 0.747}
+{'attacktype': 'PGD', 'eps': 0.015, 'NorAcc': 0.994, 'RecAcc': 0.81, 'AdvAcc': 0.696, 'RAvAcc': 0.712}

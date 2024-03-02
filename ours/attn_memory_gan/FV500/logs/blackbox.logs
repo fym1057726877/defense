@@ -1,0 +1,4 @@
+{'attacktype': 'SPSA', 'eps': 0.8, 'NorAcc': 0.987, 'RecAcc': 0.968, 'AdvAcc': 0.962, 'RAvAcc': 0.838, 'classifier': 'PV_CNN_FV500'}
+{'attacktype': 'SPSA', 'eps': 0.8, 'NorAcc': 0.985, 'RecAcc': 0.969, 'AdvAcc': 0.931, 'RAvAcc': 0.854, 'classifier': 'FVRAS_Net_FV500'}
+{'attacktype': 'SPSA', 'eps': 0.8, 'NorAcc': 0.982, 'RecAcc': 0.976, 'AdvAcc': 0.924, 'RAvAcc': 0.943, 'classifier': 'ModelB_FV500'}
+{'attacktype': 'SPSA', 'eps': 0.8, 'NorAcc': 0.991, 'RecAcc': 0.988, 'AdvAcc': 0.821, 'RAvAcc': 0.86, 'classifier': 'SwinTransformer_FV500'}

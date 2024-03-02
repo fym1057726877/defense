@@ -1,0 +1,13 @@
+{'attacktype': 'FGSM', 'eps': 0.03, 'NorAcc': 0.968, 'RecAcc': 0.423, 'AdvAcc': 0.798, 'RAvAcc': 0.443, 'classifier': 'FV_CNN_PV220'}
+{'attacktype': 'FGSM', 'eps': 0.05, 'NorAcc': 0.97, 'RecAcc': 0.45, 'AdvAcc': 0.723, 'RAvAcc': 0.432, 'classifier': 'FV_CNN_PV220'}
+{'attacktype': 'PGD', 'eps': 0.03, 'NorAcc': 0.97, 'RecAcc': 0.423, 'AdvAcc': 0.657, 'RAvAcc': 0.414, 'classifier': 'FV_CNN_PV220'}
+{'attacktype': 'PGD', 'eps': 0.05, 'NorAcc': 0.97, 'RecAcc': 0.398, 'AdvAcc': 0.477, 'RAvAcc': 0.384, 'classifier': 'FV_CNN_PV220'}
+{'attacktype': 'FGSM', 'eps': 0.03, 'NorAcc': 0.957, 'RecAcc': 0.325, 'AdvAcc': 0.83, 'RAvAcc': 0.318, 'classifier': 'PV_CNN_PV220'}
+{'attacktype': 'FGSM', 'eps': 0.05, 'NorAcc': 0.948, 'RecAcc': 0.357, 'AdvAcc': 0.609, 'RAvAcc': 0.3, 'classifier': 'PV_CNN_PV220'}
+{'attacktype': 'PGD', 'eps': 0.03, 'NorAcc': 0.948, 'RecAcc': 0.327, 'AdvAcc': 0.811, 'RAvAcc': 0.307, 'classifier': 'PV_CNN_PV220'}
+{'attacktype': 'PGD', 'eps': 0.05, 'NorAcc': 0.959, 'RecAcc': 0.295, 'AdvAcc': 0.673, 'RAvAcc': 0.316, 'classifier': 'PV_CNN_PV220'}
+{'attacktype': 'FGSM', 'eps': 0.03, 'NorAcc': 0.975, 'RecAcc': 0.05, 'AdvAcc': 0.352, 'RAvAcc': 0.068, 'classifier': 'LightweightFVCNN_PV220'}
+{'attacktype': 'FGSM', 'eps': 0.05, 'NorAcc': 0.975, 'RecAcc': 0.05, 'AdvAcc': 0.195, 'RAvAcc': 0.05, 'classifier': 'LightweightFVCNN_PV220'}
+{'attacktype': 'PGD', 'eps': 0.03, 'NorAcc': 0.977, 'RecAcc': 0.066, 'AdvAcc': 0.216, 'RAvAcc': 0.08, 'classifier': 'LightweightFVCNN_PV220'}
+{'attacktype': 'PGD', 'eps': 0.05, 'NorAcc': 0.977, 'RecAcc': 0.059, 'AdvAcc': 0.111, 'RAvAcc': 0.05, 'classifier': 'LightweightFVCNN_PV220'}
+{'attacktype': 'FGSM', 'eps': 0.03, 'NorAcc': 0.959, 'RecAcc': 0.293, 'AdvAcc': 0.611, 'RAvAcc': 0.284, 'classifier': 'FVRAS_Net_PV220'}

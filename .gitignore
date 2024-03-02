@@ -1,0 +1,6 @@
+checkpoint
+*.pth
+data/*/
+LDM/dataset/
+.idea
+**/__pycache__

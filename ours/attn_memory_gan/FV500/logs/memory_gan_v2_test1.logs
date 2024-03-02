@@ -1,0 +1,6 @@
+{'attacktype': 'FGSM', 'eps': 0.3, 'NorAcc': 0.971, 'RecAcc': 0.958, 'AdvAcc': 0.521, 'RAvAcc': 0.932, 'classifier': 'LightweightFVCNN_FV500'}
+{'attacktype': 'PGD', 'eps': 0.3, 'NorAcc': 0.971, 'RecAcc': 0.958, 'AdvAcc': 0.006, 'RAvAcc': 0.956, 'classifier': 'LightweightFVCNN_FV500'}
+{'attacktype': 'FGSM', 'eps': 0.3, 'NorAcc': 0.985, 'RecAcc': 0.973, 'AdvAcc': 0.614, 'RAvAcc': 0.924, 'classifier': 'FVRAS_Net_FV500'}
+{'attacktype': 'PGD', 'eps': 0.3, 'NorAcc': 0.982, 'RecAcc': 0.971, 'AdvAcc': 0.366, 'RAvAcc': 0.963, 'classifier': 'FVRAS_Net_FV500'}
+{'attacktype': 'FGSM', 'eps': 0.3, 'NorAcc': 0.982, 'RecAcc': 0.978, 'AdvAcc': 0.658, 'RAvAcc': 0.961, 'classifier': 'ModelB_FV500'}
+{'attacktype': 'PGD', 'eps': 0.3, 'NorAcc': 0.983, 'RecAcc': 0.98, 'AdvAcc': 0.136, 'RAvAcc': 0.974, 'classifier': 'ModelB_FV500'}

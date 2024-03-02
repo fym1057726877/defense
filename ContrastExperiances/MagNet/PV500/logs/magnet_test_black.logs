@@ -1,0 +1,2 @@
+{'attacktype': 'SPSA', 'eps': 0.3, 'NorAcc': 0.99, 'RecAcc': 0.004, 'AdvAcc': 0.544, 'RAvAcc': 0.001, 'classifier': 'Res2Net_FV500'}
+{'attacktype': 'SPSA', 'eps': 0.3, 'NorAcc': 0.991, 'RecAcc': 0.0, 'AdvAcc': 0.0, 'RAvAcc': 0.001, 'classifier': 'SwinTransformer_FV500'}

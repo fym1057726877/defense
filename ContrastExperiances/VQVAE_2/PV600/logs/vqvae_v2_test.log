@@ -1,0 +1,16 @@
+{'attacktype': 'FGSM', 'eps': 0.03, 'NorAcc': 0.882, 'RecAcc': 0.873, 'AdvAcc': 0.767, 'RAvAcc': 0.817}
+{'attacktype': 'FGSM', 'eps': 0.05, 'NorAcc': 0.882, 'RecAcc': 0.873, 'AdvAcc': 0.515, 'RAvAcc': 0.679}
+{'attacktype': 'PGD', 'eps': 0.03, 'NorAcc': 0.882, 'RecAcc': 0.873, 'AdvAcc': 0.663, 'RAvAcc': 0.697}
+{'attacktype': 'PGD', 'eps': 0.05, 'NorAcc': 0.882, 'RecAcc': 0.873, 'AdvAcc': 0.511, 'RAvAcc': 0.558}
+{'attacktype': 'FGSM', 'eps': 0.03, 'NorAcc': 0.983, 'RecAcc': 0.981, 'AdvAcc': 0.82, 'RAvAcc': 0.892}
+{'attacktype': 'FGSM', 'eps': 0.05, 'NorAcc': 0.983, 'RecAcc': 0.981, 'AdvAcc': 0.6, 'RAvAcc': 0.817}
+{'attacktype': 'PGD', 'eps': 0.03, 'NorAcc': 0.983, 'RecAcc': 0.981, 'AdvAcc': 0.792, 'RAvAcc': 0.895}
+{'attacktype': 'PGD', 'eps': 0.05, 'NorAcc': 0.983, 'RecAcc': 0.981, 'AdvAcc': 0.573, 'RAvAcc': 0.788}
+{'attacktype': 'FGSM', 'eps': 0.03, 'NorAcc': 0.997, 'RecAcc': 0.982, 'AdvAcc': 0.572, 'RAvAcc': 0.904}
+{'attacktype': 'FGSM', 'eps': 0.05, 'NorAcc': 0.997, 'RecAcc': 0.982, 'AdvAcc': 0.321, 'RAvAcc': 0.831}
+{'attacktype': 'PGD', 'eps': 0.03, 'NorAcc': 0.997, 'RecAcc': 0.982, 'AdvAcc': 0.331, 'RAvAcc': 0.962}
+{'attacktype': 'PGD', 'eps': 0.05, 'NorAcc': 0.997, 'RecAcc': 0.982, 'AdvAcc': 0.073, 'RAvAcc': 0.957}
+{'attacktype': 'FGSM', 'eps': 0.03, 'NorAcc': 0.996, 'RecAcc': 0.992, 'AdvAcc': 0.617, 'RAvAcc': 0.837}
+{'attacktype': 'FGSM', 'eps': 0.05, 'NorAcc': 0.996, 'RecAcc': 0.992, 'AdvAcc': 0.371, 'RAvAcc': 0.654}
+{'attacktype': 'PGD', 'eps': 0.03, 'NorAcc': 0.996, 'RecAcc': 0.992, 'AdvAcc': 0.613, 'RAvAcc': 0.919}
+{'attacktype': 'PGD', 'eps': 0.05, 'NorAcc': 0.996, 'RecAcc': 0.992, 'AdvAcc': 0.366, 'RAvAcc': 0.871}

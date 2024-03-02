@@ -1,0 +1,1 @@
+{'attacktype': 'FGSM', 'eps': 0.03, 'NorAcc': 0.882, 'RecAcc': 0.002, 'AdvAcc': 0.796, 'RAvAcc': 0.002, 'classifier': 'FV_CNN_PV600'}

@@ -1,0 +1,2 @@
+{'attacktype': 'FGSM', 'eps': 0.015, 'NorAcc': 0.993, 'RecAcc': 0.773, 'AdvAcc': 0.69, 'RAvAcc': 0.702, 'classifier': 'Res2Net_PV600'}
+{'attacktype': 'FGSM', 'eps': 0.015, 'NorAcc': 0.986, 'RecAcc': 0.535, 'AdvAcc': 0.109, 'RAvAcc': 0.437, 'classifier': 'Vit_PV600'}
